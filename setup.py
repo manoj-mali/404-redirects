@@ -9,7 +9,7 @@ setup(
   author_email = 'manojsm2110@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/manoj-mali/404-redirects',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/manoj-mali/404-redirects',    # I explain this later on
-  keywords = ['Redirect_404],   # Keywords that define your package best
+  keywords = ['Redirect_404'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
           'beautifulsoup4',
